@@ -35,6 +35,12 @@ body {
     text-decoration: none;
     font-weight: 600;
 }
+#clickable-section {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px;
+    cursor: pointer;
+}
 
 .navbar a {
     display: inline-block;
